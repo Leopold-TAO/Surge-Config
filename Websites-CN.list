@@ -1,0 +1,8 @@
+# > Chinese Services
+# > 中国常用服务
+
+# (Category1)
+# > Tencent
+DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,mail.qq.com
+DOMAIN-SUFFIX,tencent.com
