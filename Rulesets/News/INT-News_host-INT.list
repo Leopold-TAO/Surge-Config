@@ -1,0 +1,72 @@
+# > International News Media
+# > 国际新闻媒体
+
+# (News1)
+# > Associated Press
+DOMAIN-SUFFIX,apnews.com
+
+# > Reuters
+DOMAIN-SUFFIX,reuters.com
+DOMAIN-SUFFIX,reutersmedia.net
+
+# > AFP
+DOMAIN-SUFFIX,afp.com
+
+# (News2)
+# > BBC News
+DOMAIN-SUFFIX,bbc.com
+
+# > The New York Times
+DOMAIN-SUFFIX,newyorktimes.com
+DOMAIN-SUFFIX,nyt.com
+DOMAIN-SUFFIX,nytco.com
+DOMAIN-SUFFIX,nytimes.com
+DOMAIN-SUFFIX,nytimg.com
+DOMAIN-SUFFIX,nytlog.com
+DOMAIN-SUFFIX,nytstyle.com
+DOMAIN-SUFFIX,tmagazine.com
+
+# > 联合早报
+DOMAIN-SUFFIX,zaobao.com
+DOMAIN-SUFFIX,zaobao.com.sg
+
+# (News3)
+# > Wall Street Journal
+DOMAIN-SUFFIX,wsj.com
+DOMAIN-SUFFIX,dowjones.com
+
+# > Financial Times
+DOMAIN-SUFFIX,ft.com
+DOMAIN-SUFFIX,ftchinese.com
+DOMAIN-SUFFIX,chineseft.live
+
+# > 日本经济新闻
+DOMAIN-SUFFIX,nikkei.com
+
+# > Bloomberg
+DOMAIN-SUFFIX,bloomberg.cn
+DOMAIN-SUFFIX,bloomberg.com
+DOMAIN-SUFFIX,bloombergview.com
+
+# > The Economist
+DOMAIN-SUFFIX,economist.com
+DOMAIN-SUFFIX,static-economist.com
+
+# (News4)
+# > C-SPAN
+DOMAIN-SUFFIX,c-span.org
+
+# > Axios
+DOMAIN-SUFFIX,axios.com
+
+# > NPR
+DOMAIN-SUFFIX,npr.org
+
+# > RFI
+DOMAIN-SUFFIX,rfi.fr
+
+# > Barron's
+DOMAIN-SUFFIX,barrons.com
+
+# > 自由亚洲电台
+DOMAIN-SUFFIX,rfa.org
