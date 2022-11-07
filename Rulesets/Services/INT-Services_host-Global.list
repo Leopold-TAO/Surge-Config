@@ -28,6 +28,7 @@ DOMAIN-SUFFIX,adobe.io
 
 # > Parallels
 DOMAIN-SUFFIX,parallels.com
+DOMAIN-SUFFIX,parallels.cn
 
 # > PayPal
 USER-AGENT,PayPal*
