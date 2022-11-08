@@ -24,3 +24,6 @@ IP-CIDR,129.226.107.244/32,no-resolve
 
 # > Sougou
 DOMAIN-SUFFIX,sogou.com
+
+# > Other Services
+DOMAIN-SUFFIX,vhall.com
