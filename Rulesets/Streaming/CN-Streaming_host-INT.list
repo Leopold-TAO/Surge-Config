@@ -11,16 +11,16 @@ DOMAIN,upos-bstar-mirrorakam.akamaized.net
 DOMAIN,upos-bstar1-mirrorakam.akamaized.net
 
 # > Bilibili
-DOMAIN,api.biliapi.com
-DOMAIN,api.biliapi.net
-DOMAIN,api.bilibili.com
-DOMAIN,app.biliapi.com
-DOMAIN,app.biliapi.net
-DOMAIN,app.bilibili.com
-DOMAIN,grpc.biliapi.net
-DOMAIN,m.bilibili.com
-DOMAIN,upos-hz-mirrorakam.akamaized.net
-DOMAIN,www.bilibili.com
+# DOMAIN,api.biliapi.com
+# DOMAIN,api.biliapi.net
+# DOMAIN,api.bilibili.com
+# DOMAIN,app.biliapi.com
+# DOMAIN,app.biliapi.net
+# DOMAIN,app.bilibili.com
+# DOMAIN,grpc.biliapi.net
+# DOMAIN,m.bilibili.com
+# DOMAIN,upos-hz-mirrorakam.akamaized.net
+# DOMAIN,www.bilibili.com
 DOMAIN-KEYWORD,cn-hk-eq-bcache-
 DOMAIN-SUFFIX,bilibili.tv
 
