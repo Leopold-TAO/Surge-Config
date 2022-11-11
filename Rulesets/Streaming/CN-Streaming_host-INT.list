@@ -22,6 +22,7 @@ DOMAIN,m.bilibili.com
 DOMAIN,upos-hz-mirrorakam.akamaized.net
 DOMAIN,www.bilibili.com
 DOMAIN-KEYWORD,cn-hk-eq-bcache-
+DOMAIN-SUFFIX,bilibili.tv
 
 # > iQiyi International
 DOMAIN-SUFFIX,iq.com
