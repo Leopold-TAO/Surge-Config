@@ -52,6 +52,9 @@ DOMAIN-SUFFIX,bloombergview.com
 DOMAIN-SUFFIX,economist.com
 DOMAIN-SUFFIX,static-economist.com
 
+# > The Washington Post
+DOMAIN-SUFFIX,washingtonpost.com
+
 # (News4)
 # > C-SPAN
 DOMAIN-SUFFIX,c-span.org
