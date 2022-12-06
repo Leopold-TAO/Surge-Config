@@ -1,0 +1,6 @@
+# > Input English Ruleset Name
+# > 键入中文分流规则名
+
+# (Category1)
+# > Company Name
+DOMAIN-SUFFIX,
