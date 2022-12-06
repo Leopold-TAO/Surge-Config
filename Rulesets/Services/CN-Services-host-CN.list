@@ -26,4 +26,8 @@ IP-CIDR,129.226.107.244/32,no-resolve
 DOMAIN-SUFFIX,sogou.com
 
 # > Other Services
-DOMAIN-SUFFIX,vhall.com
+DOMAIN-SUFFIX,vhall.com //微吼直播
+
+DOMAIN-SUFFIX,qcc.com //企查查
+DOMAIN-SUFFIX,tianyancha.com //天眼查
+DOMAIN-SUFFIX,aiqicha.com //爱企查
