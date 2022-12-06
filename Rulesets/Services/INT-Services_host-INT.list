@@ -9,6 +9,9 @@ DOMAIN-SUFFIX,gmail.com
 # > Google Voice
 DOMAIN,lens.l.google.com
 
+# > Google Blog
+DOMAIN-SUFFIX,blog.google
+
 # > Google Drive
 PROCESS-NAME,Backup and Sync
 USER-AGENT,%E4%BA%91%E7%AB%AF%E7%A1%AC%E7%9B%98*
