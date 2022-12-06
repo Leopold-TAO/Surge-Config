@@ -23,6 +23,9 @@ DOMAIN,www.googleapis.com
 # > Chromecast with Google TV
 DOMAIN-KEYWORD,pa.google
 
+# > 1Password
+DOMAIN-SUFFIX,1password.com
+
 # > GitHub
 DOMAIN-SUFFIX,github.blog
 DOMAIN-SUFFIX,github.com
