@@ -6,6 +6,7 @@
 # > Microsoft
 DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,office365.com
 
 # > OneDrive
 PROCESS-NAME,OneDrive
