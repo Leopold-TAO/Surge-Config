@@ -29,6 +29,9 @@ DOMAIN-KEYWORD,pa.google
 # > 1Password
 DOMAIN-SUFFIX,1password.com
 
+# > Grammarly
+DOMAIN-SUFFIX,grammarly.com
+
 # > GitHub
 DOMAIN-SUFFIX,github.blog
 DOMAIN-SUFFIX,github.com
