@@ -65,11 +65,5 @@ DOMAIN-SUFFIX,axios.com
 # > NPR
 DOMAIN-SUFFIX,npr.org
 
-# > RFI
-DOMAIN-SUFFIX,rfi.fr
-
 # > Barron's
 DOMAIN-SUFFIX,barrons.com
-
-# > 自由亚洲电台
-DOMAIN-SUFFIX,rfa.org
