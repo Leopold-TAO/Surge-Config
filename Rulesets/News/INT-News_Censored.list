@@ -1,0 +1,22 @@
+# > Censored Websites
+# > 被审计网站
+
+# (部分屏蔽)
+# > RFI
+DOMAIN-SUFFIX,rfi.fr
+
+# > 中国数字时代
+DOMAIN-SUFFIX,chinadigitaltimes.net
+
+# (全部屏蔽)
+# > 美国之音
+DOMAIN-SUFFIX,voachinese.com
+
+# > 自由亚洲电台
+DOMAIN-SUFFIX,rfa.org
+
+# > 品葱社区
+DOMAIN-SUFFIX,pincong.rocks
+
+# > 大纪元
+DOMAIN-SUFFIX,epochtimes.com
