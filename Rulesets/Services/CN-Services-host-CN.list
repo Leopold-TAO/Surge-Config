@@ -29,8 +29,10 @@ DOMAIN-SUFFIX,163.com
 DOMAIN-SUFFIX,sogou.com
 
 # > Other Services
-DOMAIN-SUFFIX,vhall.com //微吼直播
+DOMAIN-SUFFIX,eudic.net //欧路词典
 
 DOMAIN-SUFFIX,qcc.com //企查查
 DOMAIN-SUFFIX,tianyancha.com //天眼查
 DOMAIN-SUFFIX,aiqicha.com //爱企查
+
+DOMAIN-SUFFIX,vhall.com //微吼直播
