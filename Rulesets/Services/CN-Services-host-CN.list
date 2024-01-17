@@ -30,7 +30,9 @@ DOMAIN-SUFFIX,sogou.com
 
 # > Other Services
 DOMAIN-SUFFIX,eudic.net //欧路词典
+
 DOMAIN-SUFFIX,lizhi.io //数码荔枝
+DOMAIN-SUFFIX,lizhi.shop //数码荔枝
 
 DOMAIN-SUFFIX,qcc.com //企查查
 DOMAIN-SUFFIX,tianyancha.com //天眼查
